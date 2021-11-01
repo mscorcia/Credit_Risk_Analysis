@@ -62,6 +62,5 @@ The purpose of this project is to use machine learning models to predict credit 
 
 ## Summary
 
-The machine learning models used to perform the credit risk analysis is not strong in determining if credit risk is high. However the BalancedRandomForestClassifier and the EasyEnsembleClassifier show better sensitivity to High risk credit.  For instance, the 
-EasyEnsembleClassifier model shows an accuracy of 93%, which means it explains a majority of all high risk credit; but with a low precision, low risk credits will be mistaken as high risk. In my opinion I would not recommend any of these models to the bank to predict credit risk.
+The machine learning models used to perform the credit risk analysis is not strong in determining if credit risk is high. However the BalancedRandomForestClassifier and the EasyEnsembleClassifier show better sensitivity to High risk credit.  For instance, the EasyEnsembleClassifier model shows an accuracy of 93%, which means it explains a majority of all high risk credit; but with a low precision, low risk credits will be mistaken as high risk. In my opinion I would not recommend any of these models to the bank to predict credit risk.
 
